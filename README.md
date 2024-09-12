@@ -72,9 +72,6 @@ driver = webdriver.Chrome(r'path_to_your_chromedriver')
 - Add error handling for different screen resolutions and dynamically adjust canvas and palette positions.
 - Allow drawing complex images with higher accuracy by improving pixel color matching and reducing noise in images.
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
